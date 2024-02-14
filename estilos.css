@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('fondo.png');
+
+}
+
+div {
+    text-align: center;
+    color: #ffffff;
+}
+
+img {
+    border-radius: 30%;
+    max-width: 200px;
+    height: auto;
+}
+
+section {
+    max-width: 400px;
+    margin: 20px auto;
+    align-content: center;
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 8px;
+}
